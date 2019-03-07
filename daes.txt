@@ -1,0 +1,7 @@
+jjsdsh
+
+
+
+git init
+git status
+git add daes.txt
