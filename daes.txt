@@ -4,4 +4,6 @@ jjsdsh
 
 git init
 git status
-git add daes.txt
+git add daes.txt or git add --all
+git status
+git commit -m "added a file"
